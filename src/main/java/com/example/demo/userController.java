@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class userController {
     @GetMapping
     public String disply() {
-        return "hello Vishal";
+        return "Hi Vishal";
     }
     
 }
