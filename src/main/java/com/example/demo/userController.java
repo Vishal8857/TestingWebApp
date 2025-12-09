@@ -9,5 +9,4 @@ public class userController {
     public String disply() {
         return "Hi Vishal";
     }
-    
 }
